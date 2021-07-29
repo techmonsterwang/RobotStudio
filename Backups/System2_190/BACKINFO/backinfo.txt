@@ -1,0 +1,73 @@
+#
+# Generated backup file, do not edit.
+#
+# Originally at: D:\new folder2_Scientific research\RobotStudio\GraduateDesignForCoding\mook_banyun\Systems\TEMP\1552477991\backup.004628
+# 2019-05-18  18:48:41
+#
+>>SYSTEM_ID:
+VIRTUAL_USE
+
+>>PRODUCTS_ID:
+RobotWare Version: 6.07.00.00
+
+  RobotWare Base
+  English
+  623-1 Multitasking
+  604-1 MultiMove Coordinated
+  Drive System IRB 460/640/660/760/4600/66xx/6700
+  ADU-790A in position X3
+  ADU-790A in position Y3
+  ADU-790A in position Z3
+  IRB 6640-180/2.55
+  Drive System IRB 2600/4400/6400R
+  ADU-790A in position X3
+  ADU-790A in position Y3
+  ADU-790A in position Z3
+  Axis Calibration
+  IRB 2600-12/1.65 Type B
+  Drive System IRB 460/640/660/760/4600/66xx/6700
+  ADU-790A in position X3
+  ADU-790A in position Y3
+  ADU-790A in position Z3
+  IRB 6640-180/2.55
+  Drive System IRB 2600/4400/6400R
+  ADU-790A in position X3
+  ADU-790A in position Y3
+  ADU-790A in position Z3
+  Axis Calibration
+  IRB 2600-12/1.65 Type B
+
+>>HOME:
+All public files and directories
+
+>>SYSPAR:
+SYS.cfg
+PROC.cfg
+MMC.cfg
+EIO.cfg
+SIO.cfg
+MOC.cfg
+
+
+>>TASK1: (T_ROB1,,)
+SYSMOD\user.sys @ 
+PROGMOD\Module1.mod @ 
+PROGMOD\CalibData.mod @ 
+
+>>TASK2: (T_ROB2,,)
+SYSMOD\user.sys @ 
+PROGMOD\Module1.mod @ 
+PROGMOD\CalibData.mod @ 
+
+>>TASK3: (T_ROB3,,)
+SYSMOD\user.sys @ 
+PROGMOD\Module1.mod @ 
+PROGMOD\CalibData.mod @ 
+
+>>TASK4: (T_ROB4,,)
+SYSMOD\user.sys @ 
+PROGMOD\Module1.mod @ 
+PROGMOD\CalibData.mod @ 
+
+
+>>EOF:

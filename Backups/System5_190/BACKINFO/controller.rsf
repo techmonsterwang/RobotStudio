@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<ProductSettings version="1.0">
+  <Products>
+    <Product name="RobotWare" version="6.07.0130" id="abb.robotics.robotware">
+      <Settings>
+        <Setting id="abb.robotics.robotware.base" displayName="RobotWare Base" robot="1" />
+        <Setting id="abb.robotics.robotware.options.multitasking" displayName="623-1 Multitasking" robot="1" />
+        <Setting id="abb.robotics.robotware.options.multimove.coordinated" displayName="604-1 MultiMove Coordinated" robot="1" />
+        <Setting id="abb.robotics.robotware.languages.chinese" displayName="Chinese" robot="1" />
+        <Setting id="abb.robotics.robotware.options.devicenet.mssingle" displayName="709-1 DeviceNet Master/Slave" robot="1" />
+        <Setting id="abb.robotics.robotware.options.profibus.dpm" displayName="969-1 PROFIBUS Controller" robot="1" />
+        <Setting id="abb.robotics.robotware.options.profinet.ms" displayName="888-2 PROFINET Controller/Device" robot="1" />
+        <Setting id="abb.robotics.robotware.drivesystems.drive.dc790a1.du790a1.dm430a" displayName="Drive System IRB 2600/4400/6400R" robot="1" />
+        <Setting id="abb.robotics.robotware.drivesystems.powerunits.adu1.790a.ir1" displayName="ADU-790A in position X3" robot="1" />
+        <Setting id="abb.robotics.robotware.drivesystems.powerunits.adu2.790a.ir1" displayName="ADU-790A in position Y3" robot="1" />
+        <Setting id="abb.robotics.robotware.drivesystems.powerunits.adu3.790a.ir1" displayName="ADU-790A in position Z3" robot="1" />
+        <Setting id="abb.robotics.robotware.options.calaxis" displayName="Axis Calibration" robot="1" />
+        <Setting id="abb.robotics.robotware.robots.irb2600.12-1_65.typeb" displayName="IRB 2600-12/1.65 Type B" robot="1" />
+        <Setting id="abb.robotics.robotware.drivesystems.drive.dc790a1.du790a1.dm430a" displayName="Drive System IRB 2600/4400/6400R" robot="2" />
+        <Setting id="abb.robotics.robotware.drivesystems.powerunits.adu1.790a.ir1" displayName="ADU-790A in position X3" robot="2" />
+        <Setting id="abb.robotics.robotware.drivesystems.powerunits.adu2.790a.ir1" displayName="ADU-790A in position Y3" robot="2" />
+        <Setting id="abb.robotics.robotware.drivesystems.powerunits.adu3.790a.ir1" displayName="ADU-790A in position Z3" robot="2" />
+        <Setting id="abb.robotics.robotware.options.calaxis" displayName="Axis Calibration" robot="2" />
+        <Setting id="abb.robotics.robotware.robots.irb2600.12-1_65.typeb" displayName="IRB 2600-12/1.65 Type B" robot="2" />
+      </Settings>
+    </Product>
+  </Products>
+</ProductSettings>

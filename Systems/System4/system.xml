@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SystemProperties>
+  <SystemName>System4</SystemName>
+  <SerialNo>VIRTUAL_USE</SerialNo>
+  <UsedMedia>
+    <Media path="C:\Users\HUAWEI\AppData\Local\ABB Industrial IT\Robotics IT\RobotWare\RobotWare_6.07.0130" name="RobotWare" version="6.07.0130">
+    </Media>
+  </UsedMedia>
+  <ControlModule>
+    <Option descr="RobotWare Base">
+    </Option>
+    <Option descr="Chinese">
+    </Option>
+    <Option descr="709-1 DeviceNet Master/Slave">
+    </Option>
+    <Option descr="969-1 PROFIBUS Controller">
+    </Option>
+    <Option descr="888-2 PROFINET Controller/Device">
+    </Option>
+  </ControlModule>
+  <DriveModule>
+    <Name>Robot1</Name>
+    <Option descr="Drive System IRB 460/640/660/760/4600/66xx/6700">
+    </Option>
+    <Option descr="ADU-790A in position X3">
+    </Option>
+    <Option descr="ADU-790A in position Y3">
+    </Option>
+    <Option descr="ADU-790A in position Z3">
+    </Option>
+    <Option descr="IRB 6640-180/2.55">
+    </Option>
+  </DriveModule>
+</SystemProperties>

@@ -1,0 +1,3 @@
+MODULE CalibData
+	PERS tooldata tWeldGun:=[TRUE,[[125.801,0,391.268],[0.898794,0,0.438371,0]],[3,[0,0,100],[0,1,0,0],0,0,0]];
+ENDMODULE

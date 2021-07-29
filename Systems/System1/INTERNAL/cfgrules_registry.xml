@@ -1,0 +1,20 @@
+<?xml version = "1.0" encoding="utf-8" ?>
+<cfgrules_registry xmlns="urn:abb-robotics-registry-cfg-rules">
+<entry domain="EIO" prepath="C:/Users/HUAWEI/AppData/Local/ABB Industrial IT/Robotics IT/RobotWare/RobotWare_6.07.0130/rules/cfg/" postpath="cir_eio_cfgrules.xml"/>
+<entry domain="MOC" prepath="C:/Users/HUAWEI/AppData/Local/ABB Industrial IT/Robotics IT/RobotWare/RobotWare_6.07.0130/rules/cfg/" postpath="moc_cfgrules.xml"/>
+<entry domain="EIO" prepath="C:/Users/HUAWEI/AppData/Local/ABB Industrial IT/Robotics IT/RobotWare/RobotWare_6.07.0130/rules/cfg/" postpath="eio_cfgrules.xml"/>
+<entry domain="SIO" prepath="C:/Users/HUAWEI/AppData/Local/ABB Industrial IT/Robotics IT/RobotWare/RobotWare_6.07.0130/rules/cfg/" postpath="sio_cfgrules.xml"/>
+<entry domain="SIO" prepath="C:/Users/HUAWEI/AppData/Local/ABB Industrial IT/Robotics IT/RobotWare/RobotWare_6.07.0130/rules/cfg/" postpath="sio_net_cfgrules.xml"/>
+<entry domain="SYS" prepath="C:/Users/HUAWEI/AppData/Local/ABB Industrial IT/Robotics IT/RobotWare/RobotWare_6.07.0130/rules/cfg/" postpath="cir_sys_cfgrules.xml"/>
+<entry domain="MMC" prepath="C:/Users/HUAWEI/AppData/Local/ABB Industrial IT/Robotics IT/RobotWare/RobotWare_6.07.0130/rules/cfg/" postpath="cir_mmc_cfgrules.xml"/>
+<entry domain="EIO" prepath="C:/Users/HUAWEI/AppData/Local/ABB Industrial IT/Robotics IT/RobotWare/RobotWare_6.07.0130/options/enms" postpath="/en_base_cfgrules.xml"/>
+<entry domain="EIO" prepath="C:/Users/HUAWEI/AppData/Local/ABB Industrial IT/Robotics IT/RobotWare/RobotWare_6.07.0130/options/dnmss" postpath="/dn_master_cfgrules.xml"/>
+<entry domain="EIO" prepath="C:/Users/HUAWEI/AppData/Local/ABB Industrial IT/Robotics IT/RobotWare/RobotWare_6.07.0130/options/dnmss" postpath="/dn_slave_cfgrules.xml"/>
+<entry domain="EIO" prepath="C:/Users/HUAWEI/AppData/Local/ABB Industrial IT/Robotics IT/RobotWare/RobotWare_6.07.0130/options/pbm" postpath="/pb_master_cfgrules.xml"/>
+<entry domain="EIO" prepath="C:/Users/HUAWEI/AppData/Local/ABB Industrial IT/Robotics IT/RobotWare/RobotWare_6.07.0130/options/pnet" postpath="/pn_driver_cfgrules.xml"/>
+<entry domain="EIO" prepath="C:/Users/HUAWEI/AppData/Local/ABB Industrial IT/Robotics IT/RobotWare/RobotWare_6.07.0130/options/pnet" postpath="/pn_slave_cfgrules.xml"/>
+<entry domain="EIO" prepath="C:/Users/HUAWEI/AppData/Local/ABB Industrial IT/Robotics IT/RobotWare/RobotWare_6.07.0130/options/pnet" postpath="/pn_master_cfgrules.xml"/>
+<entry domain="SIO" prepath="C:/Users/HUAWEI/AppData/Local/ABB Industrial IT/Robotics IT/RobotWare/RobotWare_6.07.0130/options/rse/" postpath="rse_cfgrules.xml"/>
+<entry domain="SYS" prepath="C:/Users/HUAWEI/AppData/Local/ABB Industrial IT/Robotics IT/RobotWare/RobotWare_6.07.0130/options/mt/" postpath="cir_sys_mt_cfgrules.xml"/>
+<entry domain="SYS" prepath="C:/Users/HUAWEI/AppData/Local/ABB Industrial IT/Robotics IT/RobotWare/RobotWare_6.07.0130/options/mrss/" postpath="cir_sys_mrs_cfgrules.xml"/>
+</cfgrules_registry>

@@ -1,0 +1,45 @@
+#
+# Generated backup file, do not edit.
+#
+# Originally at: D:\new folder2_Scientific research\RobotStudio\GraduateDesignForCoding\mook_banyun\Systems\TEMP\1552418324\backup.074315
+# 2019-03-21  13:21:09
+#
+>>SYSTEM_ID:
+VIRTUAL_USE
+
+>>PRODUCTS_ID:
+RobotWare Version: 6.07.00.00
+
+  RobotWare Base
+  Chinese
+  709-1 DeviceNet Master/Slave
+  969-1 PROFIBUS Controller
+  888-2 PROFINET Controller/Device
+  623-1 Multitasking
+  604-1 MultiMove Coordinated
+  Drive System IRB 120/140/260/360/910SC/1200/1400/1520/1600/1660ID
+  ADU-790A in position X3
+  ADU-790A in position Y3
+  ADU-790A in position Z3
+  Axis Calibration
+  IRB 1200-5/0.9 Type B
+
+>>HOME:
+All public files and directories
+
+>>SYSPAR:
+SYS.cfg
+PROC.cfg
+MMC.cfg
+EIO.cfg
+SIO.cfg
+MOC.cfg
+
+
+>>TASK1: (T_ROB1,banyun,)
+SYSMOD\user.sys @ 
+PROGMOD\Module1.mod @ 
+PROGMOD\CalibData.mod @ 
+
+
+>>EOF:
